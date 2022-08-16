@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+
+//This defines the value of one 1rem in 
+html{
+   font-size: 62.5%;
+}
+
